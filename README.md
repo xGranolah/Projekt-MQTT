@@ -13,7 +13,7 @@
 ## Project Setup
 
 ```sh
-cd ../website\mqtt_website
+cd ..\website\mqtt_website
 ```
 
 ```sh
