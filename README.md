@@ -3,3 +3,25 @@
  
  ![Website](/img/esp32-s3.png "website")
 
+
+## Project Setup
+
+```sh
+cd ../website\mqtt_website
+```
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
