@@ -3,6 +3,12 @@
  
  ![Website](/img/esp32-s3.png "website")
 
+## Project requirements
+- Eclipse Mosquitto [2.0.18](https://github.com/eclipse-mosquitto/mosquitto)
+- [platformIO](https://github.com/platformio)
+- ESP32-S3
+
+
 
 ## Project Setup
 
